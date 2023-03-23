@@ -1,14 +1,42 @@
 ---
-title: "Dawie Griesel"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
 page-layout: full
-title-block-banner: true
 ---
 
+::: {.grid}
 
+::: {.g-col-12 .g-col-md-6}
+"insert image"
+:::
+
+:::
+Hello and welcome to my R Code and Shiny blog! I'm Dawie Griesel, and I'm excited to embark on this new journey of sharing my experience and knowledge in R and Shiny with you. For those who are unfamiliar with me, you can learn more about my background and expertise by visiting my digital CV at https://dawiegriesel.github.io/digital-cv/.
+
+My experience with R and Shiny has been cultivated through years of hands-on work in various industries, as well as teaching and mentoring others. As an experienced data scientist, I specialize in statistical modeling, machine learning, and data visualization. My passion for these fields has led me to work on numerous projects, and I'm eager to share the best practices, tips, and tricks I've learned along the way with all of you.
+
+Why R and Shiny?
+
+As an avid user of R and Shiny, I firmly believe in the power of these tools to transform data analysis and visualization. R, a versatile programming language for statistical computing and graphics, is widely used by data scientists, statisticians, and researchers. Shiny, a web application framework for R, allows you to build interactive web applications without the need for extensive web development skills.
+
+The combination of R and Shiny offers endless possibilities for data-driven insights and dynamic, interactive visualizations that can benefit individuals and organizations alike.
+
+What to Expect
+
+On this blog, you can expect to find a variety of content focused on R and Shiny, including:
+
+    Best practices: I'll share guidelines and advice on how to write efficient, clean, and easy-to-maintain R code, as well as tips for creating user-friendly and responsive Shiny apps.
+
+    Tutorials: Step-by-step guides and explanations to help you learn new techniques and build your own R and Shiny projects.
+
+    Use cases: Real-world examples of R and Shiny in action, showcasing how these tools can be applied to solve complex problems and create meaningful visualizations.
+
+    Updates and news: Stay informed about the latest developments in R and Shiny, as well as relevant events, workshops, and conferences.
+
+    Community engagement: This blog is not just about me—it's about fostering a community of R and Shiny enthusiasts. I encourage you to share your own experiences, ask questions, and contribute to the conversation.
+
+Let's Begin!
+
+Thank you for joining me on this exciting journey. I look forward to sharing my knowledge and learning from all of you as we explore the incredible world of R and Shiny together. Don't forget to subscribe and follow me on social media to stay updated on the latest blog posts and discussions.
+
+Happy coding!
+
+Dawie Griesel

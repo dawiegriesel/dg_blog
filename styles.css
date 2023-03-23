@@ -1,1 +1,7 @@
 /* css styles */
+body .container, body .container-fluid, body .content {
+  max-width: 1200px; /* Adjust this value to set the desired maximum width */
+  margin: 0 auto;
+}
+
+
